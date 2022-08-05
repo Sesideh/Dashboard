@@ -1,0 +1,9 @@
+C:\TFS\PortalApplication\OIECApp\Business\bin\Release\Business.dll.config
+C:\TFS\PortalApplication\OIECApp\Business\bin\Release\Business.dll
+C:\TFS\PortalApplication\OIECApp\Business\bin\Release\Business.pdb
+C:\TFS\PortalApplication\OIECApp\Business\bin\Release\Persia.dll
+C:\TFS\PortalApplication\OIECApp\Business\obj\Release\Business.csprojResolveAssemblyReference.cache
+C:\TFS\PortalApplication\OIECApp\Business\obj\Release\Business.csproj.CoreCompileInputs.cache
+C:\TFS\PortalApplication\OIECApp\Business\obj\Release\Business.csproj.CopyComplete
+C:\TFS\PortalApplication\OIECApp\Business\obj\Release\Business.dll
+C:\TFS\PortalApplication\OIECApp\Business\obj\Release\Business.pdb

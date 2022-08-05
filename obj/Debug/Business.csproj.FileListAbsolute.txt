@@ -1,0 +1,7 @@
+C:\TFS\PortalApplication\OIECApp\Business\bin\Debug\Business.dll.config
+C:\TFS\PortalApplication\OIECApp\Business\bin\Debug\Business.dll
+C:\TFS\PortalApplication\OIECApp\Business\bin\Debug\Business.pdb
+C:\TFS\PortalApplication\OIECApp\Business\bin\Debug\Persia.dll
+C:\TFS\PortalApplication\OIECApp\Business\obj\Debug\Business.csproj.CopyComplete
+C:\TFS\PortalApplication\OIECApp\Business\obj\Debug\Business.dll
+C:\TFS\PortalApplication\OIECApp\Business\obj\Debug\Business.pdb
